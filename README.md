@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Adam 👋
 
-<!--
-**AdamAlmansor1/AdamAlmansor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student passionate about leveraging technology to drive innovation across Cloud, Cybersecurity, and Data Engineering.
 
-Here are some ideas to get you started:
+## 💡 Projects
+### **Cloud-based Trading Bot**
+- **Dashboard link:** [View dashboard](https://adamalmansor.grafana.net/goto/Otd8RjKNR?orgId=1)
+- **Description:** Built a pipeline on AWS for generating trade signals and executing trades given a budget with a dashboard for visualisation
+- **Technologies:** Python, SQL, Terraform, AWS (Lambda, Timestream, S3) and Grafana
+- **Code link:** [View code](https://github.com/AdamAlmansor1/AWSCoinTrader)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **SolarVoyant**
+- **Description:** Collaborated to create a solar monitoring and insights full-stack web app.
+- **Technologies:** TypeScript, Next.js, Chakra UI, Docker, Terraform, AWS (Lambda, S3, DynamoDB, CloudWatch, EC2)
+- **Frontend link:** [View frontend code](https://github.com/AdamAlmansor1/SolarVoyantFrontend)
+- **Backend link:** [View backend code](https://github.com/AdamAlmansor1/SolarVoyantBackend)
